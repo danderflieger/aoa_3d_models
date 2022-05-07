@@ -1,5 +1,5 @@
-# aoa_3d_models
-This is a repository for 3D printable parts (Solidworks parts &amp; assemblies as well as 3MF/STL files)
+# AoA 3D Models (Solidworks and 3mf files)
+This is a repository for 3D printable parts (Solidworks parts &amp; assemblies as well as 3MF files). You can edit the Solidworks files, if you like. And if you just want to print the parts, just load the 3MF files into your 3D Slicer software. I like Ultimaker Cura (https://ultimaker.com/software/ultimaker-cura), but any slicer software that can interpret 3MF files will probably work.
 
 # Disclaimer:
 By using this Angle of Attack Sensor (sensor) and/or Angle of Attack Indicator software (indicator), you agree with the following:
