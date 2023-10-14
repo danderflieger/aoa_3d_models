@@ -13,14 +13,14 @@ just load the STL/3MF files into your 3D Slicer software. I like Ultimaker Cura 
 
 The repository is split up into four directories: 
 - Solidworks_Files
--- Contains files that can be edited in Solidworks (SLDPRT and SLDASM files)
+ - Contains files that can be edited in Solidworks (SLDPRT and SLDASM files)
 
 - Solidworks_Drawing_Files
--- Drawings that can be used as templates for holes and to ensure you're bending an aluminum plate in the right place (C152 mount).
+ - Drawings that can be used as templates for holes and to ensure you're bending an aluminum plate in the right place (C152 mount).
 
 - 3MF_Files
--- As the name suggests, this directory contains 3MF files, which can be used by a slicer program to tell a 3D printer how to print the object.
+ - As the name suggests, this directory contains 3MF files, which can be used by a slicer program to tell a 3D printer how to print the object.
 
 - STL_Files. 
--- As the name suggests, this directory contains STL files, which can be used by a slicer program to tell a 3D printer how to print the object.
+ - As the name suggests, this directory contains STL files, which can be used by a slicer program to tell a 3D printer how to print the object.
 
