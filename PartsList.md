@@ -24,4 +24,17 @@ https://www.amazon.com/dp/B0881HCN37
 https://www.amazon.com/dp/B0BC1GV6GM/
 
 ## Mechanical/Hardware
-Coming soon ...
+### 1x 5mm Bore Rigid Coupling
+https://www.amazon.com/gp/product/B07P6X9GSQ/?th=1
+
+### 1x 5mm Stainless Steel Round Rod (stainless is not magnetic)
+https://www.amazon.com/gp/product/B082ZPC5YF
+
+### 2x 5mm Inner Diameter x 11mm Outer Diameter x 4mm Bore Ball Bearing
+https://www.amazon.com/gp/product/B082PSBLVR 
+
+### 1x 5mm Inner Diameter Rigid Flange Coupler
+https://www.amazon.com/gp/product/B07PFW6GKL
+
+### Various sizes of M3 Screws
+https://www.amazon.com/gp/product/B08H24W42K
