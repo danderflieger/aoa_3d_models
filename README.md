@@ -12,15 +12,15 @@ This is a repository for 3D printable parts (Solidworks parts &amp; assemblies a
 just load the STL/3MF files into your 3D Slicer software. I like Ultimaker Cura (https://ultimaker.com/software/ultimaker-cura), but any slicer software that can interpret STL or 3MF files should work.
 
 The repository is split up into four directories: 
-##- Solidworks_Files
-  - Contains files that can be edited in Solidworks (SLDPRT and SLDASM files)
+### Solidworks_Files
+Contains files that can be edited in Solidworks (SLDPRT and SLDASM files)
 
-##- Solidworks_Drawing_Files
-  - Drawings that can be used as templates for holes and to ensure you're bending an aluminum plate in the right place (C152 mount).
+### Solidworks_Drawing_Files
+Drawings that can be used as templates for holes and to ensure you're bending an aluminum plate in the right place (C152 mount).
 
-##- 3MF_Files
-  - As the name suggests, this directory contains 3MF files, which can be used by a slicer program to tell a 3D printer how to print the object.
+### 3MF_Files
+As the name suggests, this directory contains 3MF files, which can be used by a slicer program to tell a 3D printer how to print the object.
 
-##- STL_Files. 
-  - As the name suggests, this directory contains STL files, which can be used by a slicer program to tell a 3D printer how to print the object.
+### STL_Files. 
+As the name suggests, this directory contains STL files, which can be used by a slicer program to tell a 3D printer how to print the object.
 
