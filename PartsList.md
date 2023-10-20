@@ -14,6 +14,9 @@ https://www.amazon.com/dp/B0BWJHSLVK
 ### 1x Battery Holder w/9V Snap Leads
 https://www.amazon.com/dp/B01MAXT00Q1
 
+### 1x Square Carbon Fiber Tubes 4x4x3x200mm Inner Round
+https://www.amazon.com/dp/B096G6BJHY
+
 ### 1x 3mm LED (3-3.3V)
 https://www.amazon.com/dp/B01C3W6NSK
 
@@ -38,3 +41,4 @@ https://www.amazon.com/gp/product/B07PFW6GKL
 
 ### Various sizes of M3 Screws
 https://www.amazon.com/gp/product/B08H24W42K
+
